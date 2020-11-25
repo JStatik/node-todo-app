@@ -1,6 +1,6 @@
 ## Aplicación de comandos
 
-Instalar comandos
+Instalar paquetes de Node JS
 ```
 npm install
 ```
